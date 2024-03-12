@@ -167,4 +167,4 @@ func main() {
 	router.Run("localhost:8080")
 }
 // add database: "go run main.go -id=? -name="?" -age=?"
-// link : "http://localhost/persons/'[1/2/3...}'"
+// link : "http://localhost/persons/'{1/2/3...}'"
